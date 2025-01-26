@@ -12,3 +12,4 @@ data/training_data/banking_test_with_metadata.json
 data/training_data/banking_test.jsonl
 data/training_data/banking_train.jsonl
 data/training_data/banking_validation.jsonl
+4_raft_openai_evals.ipynb
